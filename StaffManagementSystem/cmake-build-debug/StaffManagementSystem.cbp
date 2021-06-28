@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="StaffManagementSystem"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Learn/Cpp/4_Cpp_StaffManagementSystem/StaffManagementSystem/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/DevelopmentTool/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Learn/Cpp/4_Cpp_StaffManagementSystem/StaffManagementSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/DevelopmentTool/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Learn/Cpp/4_Cpp_StaffManagementSystem/StaffManagementSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/DevelopmentTool/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Learn/Cpp/4_Cpp_StaffManagementSystem/StaffManagementSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/DevelopmentTool/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Learn/Cpp/4_Cpp_StaffManagementSystem/StaffManagementSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="StaffManagementSystem">
+				<Option output="D:/Learn/Cpp/4_Cpp_StaffManagementSystem/StaffManagementSystem/cmake-build-debug/StaffManagementSystem.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Learn/Cpp/4_Cpp_StaffManagementSystem/StaffManagementSystem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\developmenttool\mingw\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0"/>
+					<Add directory="d:\developmenttool\mingw\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0/x86_64-w64-mingw32"/>
+					<Add directory="d:\developmenttool\mingw\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0/backward"/>
+					<Add directory="d:\developmenttool\mingw\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="d:\developmenttool\mingw\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="d:\developmenttool\mingw\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/DevelopmentTool/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Learn/Cpp/4_Cpp_StaffManagementSystem/StaffManagementSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 StaffManagementSystem"/>
+					<CompileFile command="D:/DevelopmentTool/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Learn/Cpp/4_Cpp_StaffManagementSystem/StaffManagementSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/DevelopmentTool/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Learn/Cpp/4_Cpp_StaffManagementSystem/StaffManagementSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/DevelopmentTool/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Learn/Cpp/4_Cpp_StaffManagementSystem/StaffManagementSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="StaffManagementSystem/fast">
+				<Option output="D:/Learn/Cpp/4_Cpp_StaffManagementSystem/StaffManagementSystem/cmake-build-debug/StaffManagementSystem.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Learn/Cpp/4_Cpp_StaffManagementSystem/StaffManagementSystem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\developmenttool\mingw\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0"/>
+					<Add directory="d:\developmenttool\mingw\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0/x86_64-w64-mingw32"/>
+					<Add directory="d:\developmenttool\mingw\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0/backward"/>
+					<Add directory="d:\developmenttool\mingw\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="d:\developmenttool\mingw\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="d:\developmenttool\mingw\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/DevelopmentTool/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Learn/Cpp/4_Cpp_StaffManagementSystem/StaffManagementSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 StaffManagementSystem/fast"/>
+					<CompileFile command="D:/DevelopmentTool/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Learn/Cpp/4_Cpp_StaffManagementSystem/StaffManagementSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/DevelopmentTool/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Learn/Cpp/4_Cpp_StaffManagementSystem/StaffManagementSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/DevelopmentTool/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Learn/Cpp/4_Cpp_StaffManagementSystem/StaffManagementSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Learn/Cpp/4_Cpp_StaffManagementSystem/StaffManagementSystem/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/DevelopmentTool/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Learn/Cpp/4_Cpp_StaffManagementSystem/StaffManagementSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/DevelopmentTool/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Learn/Cpp/4_Cpp_StaffManagementSystem/StaffManagementSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/DevelopmentTool/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Learn/Cpp/4_Cpp_StaffManagementSystem/StaffManagementSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/DevelopmentTool/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Learn/Cpp/4_Cpp_StaffManagementSystem/StaffManagementSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Learn/Cpp/4_Cpp_StaffManagementSystem/StaffManagementSystem/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/DevelopmentTool/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Learn/Cpp/4_Cpp_StaffManagementSystem/StaffManagementSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/DevelopmentTool/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Learn/Cpp/4_Cpp_StaffManagementSystem/StaffManagementSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/DevelopmentTool/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Learn/Cpp/4_Cpp_StaffManagementSystem/StaffManagementSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/DevelopmentTool/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Learn/Cpp/4_Cpp_StaffManagementSystem/StaffManagementSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Learn/Cpp/4_Cpp_StaffManagementSystem/StaffManagementSystem/Header/boss.h">
+			<Option target="StaffManagementSystem"/>
+		</Unit>
+		<Unit filename="D:/Learn/Cpp/4_Cpp_StaffManagementSystem/StaffManagementSystem/Header/employee.h">
+			<Option target="StaffManagementSystem"/>
+		</Unit>
+		<Unit filename="D:/Learn/Cpp/4_Cpp_StaffManagementSystem/StaffManagementSystem/Header/manager.h">
+			<Option target="StaffManagementSystem"/>
+		</Unit>
+		<Unit filename="D:/Learn/Cpp/4_Cpp_StaffManagementSystem/StaffManagementSystem/Header/worker.h">
+			<Option target="StaffManagementSystem"/>
+		</Unit>
+		<Unit filename="D:/Learn/Cpp/4_Cpp_StaffManagementSystem/StaffManagementSystem/Header/workerManager.h">
+			<Option target="StaffManagementSystem"/>
+		</Unit>
+		<Unit filename="D:/Learn/Cpp/4_Cpp_StaffManagementSystem/StaffManagementSystem/Main/StaffManagerSystem_Main.cpp">
+			<Option target="StaffManagementSystem"/>
+		</Unit>
+		<Unit filename="D:/Learn/Cpp/4_Cpp_StaffManagementSystem/StaffManagementSystem/Source/boss.cpp">
+			<Option target="StaffManagementSystem"/>
+		</Unit>
+		<Unit filename="D:/Learn/Cpp/4_Cpp_StaffManagementSystem/StaffManagementSystem/Source/employee.cpp">
+			<Option target="StaffManagementSystem"/>
+		</Unit>
+		<Unit filename="D:/Learn/Cpp/4_Cpp_StaffManagementSystem/StaffManagementSystem/Source/manager.cpp">
+			<Option target="StaffManagementSystem"/>
+		</Unit>
+		<Unit filename="D:/Learn/Cpp/4_Cpp_StaffManagementSystem/StaffManagementSystem/Source/workerManager.cpp">
+			<Option target="StaffManagementSystem"/>
+		</Unit>
+		<Unit filename="D:/Learn/Cpp/4_Cpp_StaffManagementSystem/StaffManagementSystem/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
