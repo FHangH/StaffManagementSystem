@@ -17,7 +17,7 @@ void Boss::getWorkerInfo()
 {
     cout << "编号：" << this->worker_ID
          << "\t姓名：" << this->worker_Name
-         << "\t\t岗位：" << this->getWorkerDepartName()
+         << "\t岗位：" << this->getWorkerDepartName()
          << "\t职责：管理所有的事务" << endl;
 }
 
